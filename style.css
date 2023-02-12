@@ -1,0 +1,18 @@
+.container {
+    display: grid;
+    grid-gap: 1px;
+    height : 100px;
+    width : 100px;
+    border : solid blue;
+    
+}
+  
+.container div {
+    width: 100%;
+    height: 100%;
+    border:solid black;
+}
+
+.black{
+    background-color: black;
+}
